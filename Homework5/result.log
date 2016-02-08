@@ -1,0 +1,178 @@
+
+training data loaded
+validation data loaded
+size : 10
+rate : 0.010000
+test data loaded
+error on validation data: 0.153995382099290
+error on test data: 0.154639664389079
+size : 10
+rate : 0.050000
+test data loaded
+error on validation data: 0.084270533850882
+error on test data: 0.086555319957742
+size : 10
+rate : 0.100000
+test data loaded
+error on validation data: 0.058560616514374
+error on test data: 0.056869794671052
+size : 10
+rate : 0.500000
+test data loaded
+error on validation data: 0.044757567722291
+error on test data: 0.046620561295950
+size : 10
+rate : 1.000000
+test data loaded
+error on validation data: 0.039988973147752
+error on test data: 0.041634793946017
+size : 10
+rate : 5.000000
+test data loaded
+error on validation data: 0.078349359877417
+error on test data: 0.077378753175400
+size : 10
+rate : 10.000000
+test data loaded
+error on validation data: 0.100103207665085
+error on test data: 0.100098185604473
+size : 50
+rate : 0.010000
+test data loaded
+error on validation data: 0.098256760642288
+error on test data: 0.098025857447612
+size : 50
+rate : 0.050000
+test data loaded
+error on validation data: 0.051679705547926
+error on test data: 0.053121838145268
+size : 50
+rate : 0.100000
+test data loaded
+error on validation data: 0.037126867805320
+error on test data: 0.038691305855876
+size : 50
+rate : 0.500000
+test data loaded
+error on validation data: 0.022374143121934
+error on test data: 0.022165548258257
+size : 50
+rate : 1.000000
+test data loaded
+error on validation data: 0.023325523617643
+error on test data: 0.024661126486072
+size : 50
+rate : 5.000000
+test data loaded
+error on validation data: 0.180000347109215
+error on test data: 0.180000339187914
+size : 50
+rate : 10.000000
+test data loaded
+error on validation data: 0.100000000327658
+error on test data: 0.100000000233152
+size : 100
+rate : 0.010000
+test data loaded
+error on validation data: 0.075880819944700
+error on test data: 0.075357388674582
+size : 100
+rate : 0.050000
+test data loaded
+error on validation data: 0.052127053528579
+error on test data: 0.051397695494784
+size : 100
+rate : 0.100000
+test data loaded
+error on validation data: 0.033651589371441
+error on test data: 0.036661740361552
+size : 100
+rate : 0.500000
+test data loaded
+error on validation data: 0.027779017923431
+error on test data: 0.029235660890211
+size : 100
+rate : 1.000000
+test data loaded
+error on validation data: 0.037527881000115
+error on test data: 0.038614497715181
+size : 100
+rate : 5.000000
+test data loaded
+error on validation data: 0.180000000102188
+error on test data: 0.180000000078540
+size : 100
+rate : 10.000000
+test data loaded
+error on validation data: 0.100000000034123
+error on test data: 0.100000000063377
+size : 150
+rate : 0.010000
+test data loaded
+error on validation data: 0.074930425101109
+error on test data: 0.074459134153052
+size : 150
+rate : 0.050000
+test data loaded
+error on validation data: 0.052695069679388
+error on test data: 0.054343731676991
+size : 150
+rate : 0.100000
+test data loaded
+error on validation data: 0.040304641820987
+error on test data: 0.040496103128946
+size : 150
+rate : 0.500000
+test data loaded
+error on validation data: 0.028699508948057
+error on test data: 0.029092748629089
+size : 150
+rate : 1.000000
+test data loaded
+error on validation data: 0.044838746136782
+error on test data: 0.045760575684684
+size : 150
+rate : 5.000000
+test data loaded
+error on validation data: 0.259999995162858
+error on test data: 0.259999996799429
+size : 150
+rate : 10.000000
+test data loaded
+error on validation data: 0.180000001206582
+error on test data: 0.180000000413652
+size : 200
+rate : 0.010000
+test data loaded
+error on validation data: 0.067332965132155
+error on test data: 0.067651823711981
+size : 200
+rate : 0.050000
+test data loaded
+error on validation data: 0.047531546263447
+error on test data: 0.047344247865543
+size : 200
+rate : 0.100000
+test data loaded
+error on validation data: 0.046551245382308
+error on test data: 0.044580920199372
+size : 200
+rate : 0.500000
+test data loaded
+error on validation data: 0.060937240897777
+error on test data: 0.060030913417219
+size : 200
+rate : 1.000000
+test data loaded
+error on validation data: 0.068145353625440
+error on test data: 0.067962416063822
+size : 200
+rate : 5.000000
+test data loaded
+error on validation data: 0.179999999929387
+error on test data: 0.179999999108361
+size : 200
+rate : 10.000000
+test data loaded
+error on validation data: 0.260001168774867
+error on test data: 0.260002295865863

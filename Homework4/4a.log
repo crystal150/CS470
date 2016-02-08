@@ -1,0 +1,19 @@
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- ["4a.pl"].
+Warning: /Users/customer/Project/AI/4a.pl:30:
+        Singleton variables: [X,Y,Z]
+Warning: /Users/customer/Project/AI/4a.pl:31:
+        Singleton variables: [X,Y,Z]
+true.
+
+?- plan([w,w,w,w,w,w], [e,e,e,e,e,e], [[w,w,w,w,w,w]]).
+[[e,e,e,e,e,e],[e,e,e,e,w,e],[e,e,e,e,w,w],[w,w,e,e,w,w],[w,w,w,e,w,w],[w,w,w,e,w,e],[w,w,w,e,e,e],[w,w,w,e,e,w],[w,w,w,w,e,w],[w,w,w,w,e,e],[w,w,w,w,w,e],[w,w,w,w,w,w]]
+true .
+

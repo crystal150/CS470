@@ -1,0 +1,56 @@
+
+training data loaded
+validation data loaded
+iteration:     0 / error on validation data: 0.537152587259588 / y_true: 7 / y_predicted: 6
+iteration:  1000 / error on validation data: 0.148804225774507 / y_true: 3 / y_predicted: 6
+iteration:  2000 / error on validation data: 0.124677625789559 / y_true: 5 / y_predicted: 3
+iteration:  3000 / error on validation data: 0.111218771459104 / y_true: 9 / y_predicted: 9
+iteration:  4000 / error on validation data: 0.104006718498152 / y_true: 5 / y_predicted: 2
+iteration:  5000 / error on validation data: 0.093579690404781 / y_true: 6 / y_predicted: 6
+iteration:  6000 / error on validation data: 0.087955715858905 / y_true: 1 / y_predicted: 1
+iteration:  7000 / error on validation data: 0.082971004832420 / y_true: 3 / y_predicted: 3
+iteration:  8000 / error on validation data: 0.076598363317764 / y_true: 3 / y_predicted: 3
+iteration:  9000 / error on validation data: 0.076872144382926 / y_true: 4 / y_predicted: 4
+iteration: 10000 / error on validation data: 0.071896191937512 / y_true: 6 / y_predicted: 6
+iteration: 11000 / error on validation data: 0.070064376635370 / y_true: 7 / y_predicted: 0
+iteration: 12000 / error on validation data: 0.066551731386113 / y_true: 6 / y_predicted: 6
+iteration: 13000 / error on validation data: 0.065140239842810 / y_true: 8 / y_predicted: 8
+iteration: 14000 / error on validation data: 0.062433099825476 / y_true: 2 / y_predicted: 2
+iteration: 15000 / error on validation data: 0.060546907527448 / y_true: 9 / y_predicted: 9
+iteration: 16000 / error on validation data: 0.060859326948046 / y_true: 5 / y_predicted: 5
+iteration: 17000 / error on validation data: 0.059456367583660 / y_true: 6 / y_predicted: 6
+iteration: 18000 / error on validation data: 0.056842037920954 / y_true: 6 / y_predicted: 6
+iteration: 19000 / error on validation data: 0.056414818152532 / y_true: 8 / y_predicted: 8
+iteration: 20000 / error on validation data: 0.054322450058002 / y_true: 2 / y_predicted: 2
+iteration: 21000 / error on validation data: 0.054705877527175 / y_true: 7 / y_predicted: 3
+iteration: 22000 / error on validation data: 0.051893571276761 / y_true: 0 / y_predicted: 0
+iteration: 23000 / error on validation data: 0.053102843879427 / y_true: 3 / y_predicted: 3
+iteration: 24000 / error on validation data: 0.050838227059092 / y_true: 2 / y_predicted: 2
+iteration: 25000 / error on validation data: 0.050357846593131 / y_true: 2 / y_predicted: 2
+iteration: 26000 / error on validation data: 0.051105479060094 / y_true: 7 / y_predicted: 7
+iteration: 27000 / error on validation data: 0.048407653818970 / y_true: 8 / y_predicted: 8
+iteration: 28000 / error on validation data: 0.048319336597139 / y_true: 9 / y_predicted: 9
+iteration: 29000 / error on validation data: 0.047022065135272 / y_true: 0 / y_predicted: 0
+iteration: 30000 / error on validation data: 0.046679318724356 / y_true: 4 / y_predicted: 4
+iteration: 31000 / error on validation data: 0.048012429907852 / y_true: 2 / y_predicted: 2
+iteration: 32000 / error on validation data: 0.045964704354879 / y_true: 4 / y_predicted: 4
+iteration: 33000 / error on validation data: 0.045365265235551 / y_true: 4 / y_predicted: 9
+iteration: 34000 / error on validation data: 0.044810216402261 / y_true: 1 / y_predicted: 1
+iteration: 35000 / error on validation data: 0.044237136913406 / y_true: 3 / y_predicted: 3
+iteration: 36000 / error on validation data: 0.041986193333438 / y_true: 1 / y_predicted: 1
+iteration: 37000 / error on validation data: 0.042619322806414 / y_true: 3 / y_predicted: 3
+iteration: 38000 / error on validation data: 0.043528715255915 / y_true: 5 / y_predicted: 5
+iteration: 39000 / error on validation data: 0.043435705261970 / y_true: 2 / y_predicted: 2
+iteration: 40000 / error on validation data: 0.042392357718651 / y_true: 8 / y_predicted: 8
+iteration: 41000 / error on validation data: 0.041893859701816 / y_true: 1 / y_predicted: 1
+iteration: 42000 / error on validation data: 0.041016864814670 / y_true: 2 / y_predicted: 2
+iteration: 43000 / error on validation data: 0.043913374123022 / y_true: 0 / y_predicted: 0
+iteration: 44000 / error on validation data: 0.041490652453600 / y_true: 9 / y_predicted: 9
+iteration: 45000 / error on validation data: 0.039932374048920 / y_true: 7 / y_predicted: 7
+iteration: 46000 / error on validation data: 0.040210980518138 / y_true: 5 / y_predicted: 5
+iteration: 47000 / error on validation data: 0.040385541137407 / y_true: 6 / y_predicted: 6
+iteration: 48000 / error on validation data: 0.038781520172114 / y_true: 4 / y_predicted: 4
+iteration: 49000 / error on validation data: 0.038188183189640 / y_true: 4 / y_predicted: 4
+test data loaded
+error on validation data: 0.038613167718009
+error on test data: 0.039270275616731

@@ -1,0 +1,41 @@
+:?- ["3b1.pl"].
+true.
+
+?- listing(on).
+:- dynamic on/2.
+
+on(a, b).
+on(b, c).
+on(c, d).
+on(d, table).
+
+true.
+
+?- r_put_on(d, c).
+true .
+
+?- listing(on).
+:- dynamic on/2.
+
+on(a, table).
+on(b, table).
+on(c, table).
+on(d, c).
+
+true.
+
+?- put_on(b, d).
+true .
+
+?- put_on(a, b).
+true .
+
+?- listing(on).
+:- dynamic on/2.
+
+on(c, table).
+on(d, c).
+on(b, d).
+on(a, b).
+
+true.

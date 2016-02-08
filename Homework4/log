@@ -1,0 +1,140 @@
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- ["tutorial.pl"].
+true.
+
+?- put_on(a,table).
+true .
+
+?- listing(on), listing(move).
+:- dynamic on/2.
+
+on(b, c).
+on(c, table).
+on(a, table).
+
+:- dynamic move/3.
+
+move(a, b, table).
+
+true.
+
+?- put_on(c,a).
+false.
+
+?- put_on(b,table), put_on(c,a).
+true .
+
+?- listing(on), listing(move).
+:- dynamic on/2.
+
+on(a, table).
+on(b, table).
+on(c, a).
+
+:- dynamic move/3.
+
+move(a, b, table).
+move(b, c, table).
+move(c, table, a).
+
+true.
+
+
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- ["tutorial.pl"].
+true.
+
+?- r_put_on(c,a).
+true .
+
+?- listing(on), listing(move).
+:- dynamic on/2.
+
+on(a, table).
+on(b, table).
+on(c, a).
+
+:- dynamic move/3.
+
+move(a, b, table).
+move(b, c, table).
+move(c, table, a).
+
+true.
+
+
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- ["tutorial.pl"].
+true.
+
+?- do([on(a,table),on(b,a),on(c,b)]).
+true .
+
+?- listing(on), listing(move).
+:- dynamic on/2.
+
+on(a, table).
+on(b, a).
+on(c, b).
+
+:- dynamic move/3.
+
+move(a, b, table).
+move(b, c, a).
+move(c, table, b).
+
+true.
+
+
+Welcome to SWI-Prolog (Multi-threaded, 64 bits, Version 7.2.3)
+Copyright (c) 1990-2015 University of Amsterdam, VU Amsterdam
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
+and you are welcome to redistribute it under certain conditions.
+Please visit http://www.swi-prolog.org for details.
+
+For help, use ?- help(Topic). or ?- apropos(Word).
+
+?- ["tutorial.pl"].
+true.
+
+?- do([on(c,b),on(b,a),on(a,table)]).
+true .
+
+?- listing(on), listing(move).
+:- dynamic on/2.
+
+on(a, table).
+on(b, a).
+on(c, b).
+
+:- dynamic move/3.
+
+move(a, b, table).
+move(b, c, table).
+move(c, table, b).
+move(c, b, table).
+move(b, table, a).
+move(c, table, b).
+
+true.
